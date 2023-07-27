@@ -201,9 +201,6 @@ type Product = {
     },
   ];
   
-  
-  
-  
   export const pizzas: Products = [
     {
       id: 1,
